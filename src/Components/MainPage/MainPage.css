@@ -1,0 +1,24 @@
+.movie-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0.5rem;
+}
+.no-results {
+  color: white;
+  font-size: 2rem;
+  margin: 15px;
+}
+
+/* For tablets: 2 cards per row */
+@media (max-width: 768px) {
+  .movie-grid .card {
+    flex-basis: 50%;
+  }
+}
+
+/* For mobile devices: 1 card per row */
+@media (max-width: 480px) {
+  .movie-grid .card {
+    flex-basis: 100%;
+  }
+}

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "tt0087968",
+    "title": "Racing with the Moon",
+    "year": "1984",
+    "genres": ["Comedy", "Drama", "Romance"]
+  },
+  {
+    "id": "tt0090769",
+    "title": "The Boy in Blue",
+    "year": "1986",
+    "genres": ["Biography", "Drama", "Sport"]
+  },
+  {
+    "id": "tt0091738",
+    "title": "Peggy Sue Got Married",
+    "year": "1986",
+    "genres": ["Comedy", "Drama", "Fantasy"]
+  },
+  {
+    "id": "tt0093565",
+    "title": "Moonstruck",
+    "year": "1987",
+    "genres": ["Comedy", "Drama", "Romance"]
+  },
+  {
+    "id": "tt0093822",
+    "title": "Raising Arizona",
+    "year": "1987",
+    "genres": ["Comedy", "Crime"]
+  },
+  {
+    "id": "tt0095722",
+    "title": "Never on Tuesday",
+    "year": "1988",
+    "genres": ["Comedy", "Drama"]
+  },
+  {
+    "id": "tt0113552",
+    "title": "Kiss of Death",
+    "year": "1995",
+    "genres": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "id": "tt0113627",
+    "title": "Leaving Las Vegas",
+    "year": "1995",
+    "genres": ["Drama", "Romance"]
+  },
+  {
+    "id": "tt0134273",
+    "title": "8MM",
+    "year": "1999",
+    "genres": ["Crime", "Drama", "Mystery"]
+  },
+  {
+    "id": "tt0163988",
+    "title": "Bringing Out the Dead",
+    "year": "1999",
+    "genres": ["Drama", "Thriller"]
+  },
+  {
+    "id": "tt0205167",
+    "title": "Jonathan Ross Presents for One Week Only: David Lynch",
+    "year": "1990",
+    "genres": ["Documentary"]
+  },
+  {
+    "id": "tt0205314",
+    "title": "Inside the Golden Statue",
+    "year": "1998",
+    "genres": ["Documentary"]
+  },
+  {
+    "id": "tt0238112",
+    "title": "Captain Corelli's Mandolin",
+    "year": "2001",
+    "genres": ["Drama", "Music", "Romance"]
+  },
+  {
+    "id": "tt0245562",
+    "title": "Windtalkers",
+    "year": "2002",
+    "genres": ["Action", "Drama", "War"]
+  },
+  {
+    "id": "tt0246354",
+    "title": "Very Important Pennis",
+    "year": "1996",
+    "genres": ["Comedy"]
+  },
+  {
+    "id": "tt0259324",
+    "title": "Ghost Rider",
+    "year": "2007",
+    "genres": ["Action", "Fantasy", "Thriller"]
+  },
+  {
+    "id": "tt0259929",
+    "title": "Christmas Carol: The Movie",
+    "year": "2001",
+    "genres": ["Animation", "Family", "Fantasy"]
+  },
+  {
+    "id": "tt0268126",
+    "title": "Adaptation.",
+    "year": "2002",
+    "genres": ["Comedy", "Drama"]
+  },
+  {
+    "id": "tt0289992",
+    "title": "The Life of David Gale",
+    "year": "2003",
+    "genres": ["Crime", "Drama", "Mystery"]
+  },
+  {
+    "id": "tt0305973",
+    "title": "Sonny",
+    "year": "2002",
+    "genres": ["Crime", "Drama"]
+  },
+  {
+    "id": "tt0315677",
+    "title": "HypaSpace",
+    "year": "2002",
+    "genres": ["Documentary"]
+  },
+  {
+    "id": "tt0384680",
+    "title": "The Weather Man",
+    "year": "2005",
+    "genres": ["Comedy", "Drama"]
+  },
+  {
+    "id": "tt0407905",
+    "title": "John Travolta: The Inside Story",
+    "year": "2004",
+    "genres": ["Documentary"]
+  },
+  {
+    "id": "tt0435705",
+    "title": "Next",
+    "year": "2007",
+    "genres": ["Action", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": "tt0481499",
+    "title": "The Croods",
+    "year": "2013",
+    "genres": ["Adventure", "Animation", "Comedy"]
+  },
+  {
+    "id": "tt0489239",
+    "title": "National Treasure Uncovered",
+    "year": "2004",
+    "genres": []
+  },
+  {
+    "id": "tt0763831",
+    "title": "A Thousand Words",
+    "year": "2012",
+    "genres": ["Comedy", "Drama", "Fantasy"]
+  },
+  {
+    "id": "tt0796267",
+    "title": "Hi Octane",
+    "year": "1994",
+    "genres": ["Comedy"]
+  },
+  {
+    "id": "tt0805631",
+    "title": "Too Tough to Die: A Tribute to Johnny Ramone",
+    "year": "2006",
+    "genres": ["Documentary", "Music"]
+  },
+  {
+    "id": "tt0814022",
+    "title": "Bangkok Dangerous",
+    "year": "2008",
+    "genres": ["Action", "Crime", "Thriller"]
+  },
+  {
+    "id": "tt0843412",
+    "title": "Fantastico 10",
+    "year": "1989",
+    "genres": ["Comedy", "Game-Show", "Music"]
+  },
+  {
+    "id": "tt0876536",
+    "title": "San Sebastián 2006: Crónica de Carlos Boyero",
+    "year": "2006",
+    "genres": ["Documentary"]
+  },
+  {
+    "id": "tt10690676",
+    "title": "Dark",
+    "year": "2017",
+    "genres": ["Drama", "Thriller"]
+  },
+  {
+    "id": "tt1232381",
+    "title": "Movie Rush",
+    "year": "2006",
+    "genres": ["Documentary"]
+  },
+  {
+    "id": "tt1250777",
+    "title": "Kick-Ass",
+    "year": "2010",
+    "genres": ["Action", "Comedy", "Crime"]
+  },
+  {
+    "id": "tt13060064",
+    "title": "Highfire",
+    "year": "\\N",
+    "genres": ["Action", "Adventure", "Crime"]
+  },
+  {
+    "id": "tt1334557",
+    "title": "Samuel L. Jackson: An American Cinematheque Tribute",
+    "year": "2008",
+    "genres": ["Documentary"]
+  },
+  {
+    "id": "tt1462759",
+    "title": "Butcher's Crossing",
+    "year": "2022",
+    "genres": ["Adventure", "Drama", "Western"]
+  },
+  {
+    "id": "tt1502404",
+    "title": "Drive Angry",
+    "year": "2011",
+    "genres": ["Action", "Comedy", "Fantasy"]
+  },
+  {
+    "id": "tt15046058",
+    "title": "The Roles That Changed My Life",
+    "year": "2021",
+    "genres": []
+  },
+  {
+    "id": "tt1610013",
+    "title": "Can't Stand Losing You: Surviving the Police",
+    "year": "2012",
+    "genres": ["Biography", "Documentary", "History"]
+  },
+  {
+    "id": "tt1640715",
+    "title": "The Courtship of Eddie's Father",
+    "year": "\\N",
+    "genres": ["Comedy"]
+  },
+  {
+    "id": "tt1656186",
+    "title": "Stolen",
+    "year": "2012",
+    "genres": ["Action", "Crime", "Thriller"]
+  },
+  {
+    "id": "tt1674784",
+    "title": "Trespass",
+    "year": "2011",
+    "genres": ["Crime", "Drama", "Mystery"]
+  },
+  {
+    "id": "tt1799915",
+    "title": "Jump Start Live",
+    "year": "2011",
+    "genres": ["Talk-Show"]
+  },
+  {
+    "id": "tt21991654",
+    "title": "Sympathy for the Devil",
+    "year": "2023",
+    "genres": ["Action", "Thriller"]
+  },
+  {
+    "id": "tt22939186",
+    "title": "Arcadian",
+    "year": "2024",
+    "genres": ["Action", "Drama", "Horror"]
+  },
+  {
+    "id": "tt2467046",
+    "title": "Left Behind",
+    "year": "2014",
+    "genres": ["Action", "Fantasy", "Sci-Fi"]
+  },
+  {
+    "id": "tt24818230",
+    "title": "Madden",
+    "year": "\\N",
+    "genres": []
+  },
+  {
+    "id": "tt24850708",
+    "title": "Gunslingers",
+    "year": "2025",
+    "genres": ["Action", "Drama", "Western"]
+  },
+  {
+    "id": "tt27706987",
+    "title": "Lords of War",
+    "year": "\\N",
+    "genres": ["Crime", "Thriller"]
+  },
+  {
+    "id": "tt27813235",
+    "title": "The Surfer",
+    "year": "2024",
+    "genres": ["Thriller"]
+  },
+  {
+    "id": "tt2850386",
+    "title": "The Croods: A New Age",
+    "year": "2020",
+    "genres": ["Adventure", "Animation", "Comedy"]
+  },
+  {
+    "id": "tt28638642",
+    "title": "Jackie Chan: Dragon Power",
+    "year": "2002",
+    "genres": ["Documentary"]
+  },
+  {
+    "id": "tt32304349",
+    "title": "The Carpenter's Son",
+    "year": "2025",
+    "genres": ["Horror"]
+  },
+  {
+    "id": "tt32604452",
+    "title": "The Prince",
+    "year": "\\N",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "tt33384287",
+    "title": "Shadowland",
+    "year": "2024",
+    "genres": ["Documentary"]
+  },
+  {
+    "id": "tt4976192",
+    "title": "211",
+    "year": "2018",
+    "genres": ["Action", "Drama", "Horror"]
+  },
+  {
+    "id": "tt5073642",
+    "title": "Color Out of Space",
+    "year": "2019",
+    "genres": ["Horror", "Mystery", "Sci-Fi"]
+  },
+  {
+    "id": "tt5460530",
+    "title": "Vengeance: A Love Story",
+    "year": "2017",
+    "genres": ["Action", "Adventure", "Crime"]
+  },
+  {
+    "id": "tt5462326",
+    "title": "Mom and Dad",
+    "year": "2017",
+    "genres": ["Comedy", "Horror", "Thriller"]
+  },
+  {
+    "id": "tt5580536",
+    "title": "Arsenal",
+    "year": "2017",
+    "genres": ["Action", "Crime", "Thriller"]
+  },
+  {
+    "id": "tt7295450",
+    "title": "Between Worlds",
+    "year": "2018",
+    "genres": ["Fantasy", "Mystery", "Thriller"]
+  },
+  {
+    "id": "tt7394816",
+    "title": "Primal",
+    "year": "2019",
+    "genres": ["Action", "Thriller"]
+  },
+  {
+    "id": "tt8114980",
+    "title": "Willy's Wonderland",
+    "year": "2021",
+    "genres": ["Action", "Comedy", "Horror"]
+  },
+  {
+    "id": "tt8535180",
+    "title": "Kill Chain",
+    "year": "2019",
+    "genres": ["Action", "Drama", "Thriller"]
+  },
+  {
+    "id": "tt8593824",
+    "title": "The Old Way",
+    "year": "2023",
+    "genres": ["Action", "Drama", "Western"]
+  },
+  {
+    "id": "tt9351746",
+    "title": "Love, Antosha",
+    "year": "2019",
+    "genres": ["Biography", "Documentary", "Music"]
+  }
+]

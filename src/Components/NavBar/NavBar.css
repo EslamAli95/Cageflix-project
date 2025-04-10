@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #242222;
+}
+.logo {
+  font-size: 4rem;
+  font-style: italic;
+  font-weight: bold;
+  color: #e50914;
+  margin-left: 15px;
+}
+.search-input {
+  font-size: 15px;
+  padding: 8px 12px;
+  border-radius: 12px;
+  border: none;
+  width: 100%;
+}
